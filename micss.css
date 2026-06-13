@@ -6,3 +6,10 @@
     background-color: #ff0000;
     margin: 20px auto;
 }
+h1{
+    color: rgb(24, 9, 228);
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Chakra Petch', sans-serif;
+    border-radius: 0pc;
+}
