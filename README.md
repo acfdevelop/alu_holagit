@@ -11,3 +11,7 @@ Proyecto realizado durante el curso de Git y GitHub.
 ## Cómo ejecutar
 
 Abrir el archivo index.html en el navegador.
+
+## Autor 
+
+Alex Carrasco F
